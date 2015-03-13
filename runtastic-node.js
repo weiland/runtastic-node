@@ -1,1 +1,1 @@
-runtastic.js
+function Runtastic(config) {    this.config = config;}Runtastic.prototype = {    login: function login() {    }};module.exports = Runtastic;

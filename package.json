@@ -1,0 +1,27 @@
+{
+  "name": "runtastic-node",
+  "version": "1.0.0",
+  "description": "runtastic api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weiland/runtastic-node"
+  },
+  "keywords": [
+    "runstastic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weiland/runtastic-node/issues"
+  },
+  "homepage": "https://github.com/weiland/runtastic-node",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.53.0",
+    "tape": "^3.5.0"
+  }
+}
